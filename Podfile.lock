@@ -1,0 +1,20 @@
+PODS:
+  - Promis (2.2.0)
+  - Stateful (2.2.0)
+
+DEPENDENCIES:
+  - Promis (= 2.2.0)
+  - Stateful (= 2.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Promis
+    - Stateful
+
+SPEC CHECKSUMS:
+  Promis: 4b7c710108427d361e29a2be352dc0eff5315456
+  Stateful: 92e01259d6e0b54af8ee4536ec50430b3d378063
+
+PODFILE CHECKSUM: e8dcc578ec330fe55ad76341a832a280f738e508
+
+COCOAPODS: 1.6.1

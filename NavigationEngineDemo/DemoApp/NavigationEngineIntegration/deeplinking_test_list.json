@@ -1,0 +1,30 @@
+{
+  "universal_links": [
+    "https://just-eat.co.uk/",
+    "https://just-eat.co.uk/home",
+    "https://just-eat.co.uk/login",
+    "https://just-eat.co.uk/area/EC4M7RF",
+    "https://just-eat.co.uk/search?postcode=EC4M7RF",
+    "https://just-eat.co.uk/search?postcode=EC4M7RF&cuisine=italian",
+    "https://just-eat.co.uk/restaurant?restaurantId=123",
+    "https://just-eat.co.uk/resetPassword?resetToken=123",
+    "https://just-eat.co.uk/orders",
+    "https://just-eat.co.uk/order/123",
+    "https://just-eat.co.uk/reorder/123",
+    "https://just-eat.co.uk/reorder?orderId=123",
+    "https://just-eat.co.uk/account/update-password?token=123"
+  ],
+  "deep_links": [
+    "JUSTEAT://irrelev.ant/home",
+    "justeat://irrelev.ant/login",
+    "just-eat-uk://irrelev.ant/resetPassword?resetToken=xyz",
+    "je-internal://irrelev.ant/search?postcode=EC4M7RF",
+    "je-internal://irrelev.ant/search?postcode=EC4M7RF&cuisine=italian",
+    "je-internal://irrelev.ant/restaurant?restaurantId=12345",
+    "je-internal://irrelev.ant/order-history",
+    "je-internal://irrelev.ant/order?orderId=98765",
+    "je-internal://irrelev.ant/reorder?orderId=x8hawCy",
+    "je-internal://irrelev.ant/settings",
+    "je-internal://irrelev.ant/unknown"
+  ]
+}

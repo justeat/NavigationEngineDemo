@@ -41,5 +41,19 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>je-internal</string>
+				<string>justeat</string>
+				<string>just-eat</string>
+				<string>just-eat-uk</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>
